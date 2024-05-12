@@ -14,7 +14,7 @@ The Hash Identifier Tool is a Python script developed to simplify the process of
 3. Run the script using the command:
    
 ```
-python script.py <hash_value> [extended]
+python hashcheck.py <hash_value> [extended]
 ```
 
 - `<hash_value>`: The hash value to identify.
